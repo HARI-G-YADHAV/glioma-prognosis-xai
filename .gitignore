@@ -1,0 +1,12 @@
+# Ignore Python virtual environment
+myvenv/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# (Optional) Ignore __pycache__ and other build files
+__pycache__/
+*.pyc
+*.pyo
+resource/
